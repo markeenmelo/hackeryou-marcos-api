@@ -1,6 +1,5 @@
 const mongoose = require('mongoose')
 const server = require('./server')
-require('dotenv').config()
 
 var port = process.env.PORT || 8080;
 
