@@ -2,7 +2,13 @@
 
 ## Movie Database API
 
-Store movies in a collection called `movies`.  
+Store movies in a collection called `movies`.
+
+## Heroku samples
+
+`API` -> https://hackeryou-marcos-api.herokuapp.com/
+
+`UI` -> https://hackeryou-marcos-ui.herokuapp.com/
 
 ## To Do
 
