@@ -1,7 +1,6 @@
 const mongoose = require('mongoose')
 const Movie = require('../models/Movie')
 const movies = require('./movies')
-require('dotenv').config()
 const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/hackerYouProject'
 
 
