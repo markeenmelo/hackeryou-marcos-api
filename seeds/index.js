@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 const Movie = require('../models/Movie')
 const movies = require('./movies')
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/hackerYouProject'
+const {MONGODB_URI} = require('../utils/const')
 
 
 const truncateDatabase = async () => {
