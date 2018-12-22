@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./seeds/ & node ."
+    "start": "node ./seeds/index.js & node ."
   },
   "keywords": [],
   "author": "",
