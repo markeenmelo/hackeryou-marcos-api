@@ -5,7 +5,7 @@ const movies = []
 const aquaman = new Movie({
   title: 'Aquaman',
   overview: "The film reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime—one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be… a king.",
-  release_data: 2018,
+  release_date: 2018,
   rate: 7,
   poster_path: "http://image.tmdb.org/t/p/original/"
 })
@@ -42,20 +42,29 @@ movies.push(avengers)
 const spiderman = new Movie({
   title: 'Spider-Man: Into the Spider-Verse',
   overview: "Miles Morales is juggling his life between being a high school student and being Spider-Man. However, when Wilson \\\"Kingpin\\\" Fisk uses a super collider, another Spider-Man from another dimension, Peter Parker, accidentally winds up in Miles' dimension. As Peter trains Miles to become a better Spider-Man, they are soon joined by four other Spider-Men from across the \\\"Spider-Verse\\\". As all these clashing dimensions start to tear Brooklyn apart, Miles must help the others stop Fisk and return everyone to their own dimensions.",
-  release_data: 2018,
+  release_date: 2018,
   rate: 10,
   poster_path: "http://image.tmdb.org/t/p/original/laMM4lpQSh5z6KIBPwWogkjzBVQ.jpg"
 })
 movies.push(spiderman)
 
-const diehard = new Movie({
+const dieHard = new Movie({
   title: 'Die Hard',
   overview: "NYPD cop, John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
-  release_data: 1988,
+  release_date: 1988,
   rate: 9,
   poster_path: "http://image.tmdb.org/t/p/original/mc7MubOLcIw3MDvnuQFrO9psfCa.jpg"
 })
-movies.push(diehard)
+movies.push(dieHard)
+
+const toyStore2 = new Movie({
+  title: 'Toy Story 2',
+  overview: "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+  release_date: 1999,
+  rate: 9,
+  poster_path: "http://image.tmdb.org/t/p/original/3CmK3XurcLeUyMifCR28ibzupbB.jpg"
+})
+movies.push(toyStore2)
 
 module.exports = movies
 

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4616e2f2-5351-4db4-af7d-0bcbf28a2243" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/seeds/movies.js" beforeDir="false" afterPath="$PROJECT_DIR$/seeds/movies.js" afterDir="false" />
-    </list>
+    <list default="true" id="4616e2f2-5351-4db4-af7d-0bcbf28a2243" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,8 +25,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seeds/movies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="188">
+              <caret line="19" column="82" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -59,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="960" />
     <option name="y" value="-1692" />
     <option name="width" value="3008" />
@@ -148,16 +155,15 @@
       <option name="presentableId" value="Default" />
       <updated>1545457716087</updated>
       <workItem from="1545457719394" duration="1733000" />
-      <workItem from="1545494439413" duration="3682000" />
+      <workItem from="1545494439413" duration="3981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5415000" />
+    <option name="totallyTimeSpent" value="5714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="-1692" width="3008" height="1692" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24974892" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -224,13 +230,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -252,6 +251,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/movies.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -261,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seeds/movies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="188">
+          <caret line="19" column="82" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="82" />
         </state>
       </provider>
     </entry>
